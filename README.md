@@ -1,6 +1,16 @@
 # Accento Prototype
 _Smart Language learning at your fingertips_
 
+## 🛠️ Tech Stack
+python
+Frontend:    Streamlit, React (optional)
+Backend:     Python, Flask
+AI/ML:       HuggingFace Transformers (Wav2Vec2, Whisper)
+Audio:       Librosa, PyAudio
+Database:    SQLite (Dev), Firebase (Production)
+Auth:        JWT, Firebase Auth
+Deployment:  Heroku, Streamlit Cloud
+
 ## Feature List
 
 ## 🔐 Authentication & User Management
