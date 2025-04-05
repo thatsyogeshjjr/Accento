@@ -4,27 +4,44 @@ _Smart Language learning at your fingertips_
 Deployed at: https://accento.streamlit.app/
 
 ## 🛠️ Tech Stack
-python
-Frontend:    Streamlit, React (optional)
-Backend:     Python, Flask
-AI/ML:       HuggingFace Transformers (Wav2Vec2, Whisper), LangChain
-Audio:       Librosa, PyAudio
-Database:    SQLite (Dev), Firebase (Production)
-Auth:        JWT, Firebase Auth
-Deployment:  Heroku, Streamlit Cloud
 
-# Prototype Feature List
+- **Frontend**:    Streamlit, React (optional)
+- **Backend**:     Python, Flask
+- **AI/ML**:       HuggingFace Transformers (Wav2Vec2, Whisper), LangChain
+- **Audio**:       Librosa, PyAudio
+- **Database**:    SQLite (Dev), Firebase (Production)
+- **Auth**:        JWT, Firebase Auth
+- **Deployment**:  Heroku, Streamlit Cloud
+
+# ⚙️ Prototype Feature List
+_because baby steps..._
 ## Lessons
   - [x]  pronunciation scorer (Wav2Vec2)
   - [x]  pronunciation scorer using mic (Wav2Vec2)
-  - [ ]  Real-time integration for pronounciation scorer
-  - [ ]  Vocabulary builder
+  - [ ]  Vocabulary builder <------------------------------ in progresss
   - [ ]  "Mimic the Phrase" (AI-TTS → User repetition)
   - [ ]  Tongue twisters & shadowing exercises
   - [ ]  Role-play scenarios
 
-# Feature List
+# Prototype Screenshots and UI Proposals
+## Proposed Logo
+![icon](https://github.com/user-attachments/assets/809d2650-54ac-4ba6-8a86-b94f75c13d59)
+<br>
+## Pronounciation Scorer
+![WhatsApp Image 2025-04-05 at 15 55 25_703b91ec](https://github.com/user-attachments/assets/3a5ceeba-ff29-4b52-9d74-df250ae19766)
+<br>
+## Vocabulary Builder
+![image](https://github.com/user-attachments/assets/688c5050-8bbb-4170-bae3-6a51885c59f0)
+<br>
+## Propsed Landing Page
+![WhatsApp Image 2025-04-05 at 17 49 51_3ecc3804](https://github.com/user-attachments/assets/c1d981e3-9c82-4c07-b4ba-478882ad754f)
+<br>
+## Proposed UI samples
+![WhatsApp Image 2025-04-05 at 08 04 11_ba0760d0](https://github.com/user-attachments/assets/4d3d13aa-307a-4603-92e0-b49384b29cae)
 
+
+# Feature List
+_as presented in hackathon presentation_
 ## 🔐 Authentication & User Management
 - [ ] JWT-based Sign up/Login
 - [ ] Onboarding proficiency quiz
