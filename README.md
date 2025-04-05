@@ -1,6 +1,8 @@
 # Accento
 _Smart Language learning at your fingertips_
 
+Deployed at: https://accento.streamlit.app/
+
 ## 🛠️ Tech Stack
 python
 Frontend:    Streamlit, React (optional)
