@@ -13,7 +13,8 @@ Deployment:  Heroku, Streamlit Cloud
 
 # Prototype Feature List
 ## Lessons
-  - [*]  pronunciation scorer (Wav2Vec2)
+  - [x]  pronunciation scorer (Wav2Vec2)
+  - [x]  pronunciation scorer using mic (Wav2Vec2)
   - [ ]  Real-time integration for pronounciation scorer
   - [ ]  Vocabulary builder
   - [ ]  "Mimic the Phrase" (AI-TTS → User repetition)
