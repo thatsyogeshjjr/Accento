@@ -1,17 +1,26 @@
-# Accento Prototype
+# Accento
 _Smart Language learning at your fingertips_
 
 ## 🛠️ Tech Stack
 python
 Frontend:    Streamlit, React (optional)
 Backend:     Python, Flask
-AI/ML:       HuggingFace Transformers (Wav2Vec2, Whisper)
+AI/ML:       HuggingFace Transformers (Wav2Vec2, Whisper), LangChain
 Audio:       Librosa, PyAudio
 Database:    SQLite (Dev), Firebase (Production)
 Auth:        JWT, Firebase Auth
 Deployment:  Heroku, Streamlit Cloud
 
-## Feature List
+# Prototype Feature List
+## Lessons
+  - [*]  pronunciation scorer (Wav2Vec2)
+  - [ ]  Real-time integration for pronounciation scorer
+  - [ ]  Vocabulary builder
+  - [ ]  "Mimic the Phrase" (AI-TTS → User repetition)
+  - [ ]  Tongue twisters & shadowing exercises
+  - [ ]  Role-play scenarios
+
+# Feature List
 
 ## 🔐 Authentication & User Management
 - [ ] JWT-based Sign up/Login
