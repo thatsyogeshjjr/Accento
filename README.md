@@ -1,7 +1,9 @@
 # Accento
 _Smart Language learning at your fingertips_
 
-Deployed at: https://accento.streamlit.app/
+## Deployed at
+1. Pronounciation Scorer https://accento.streamlit.app/
+2. Vocab Builder: https://accento-vocab.streamlit.app/
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +20,7 @@ _because baby steps..._
 ## Lessons
   - [x]  pronunciation scorer (Wav2Vec2)
   - [x]  pronunciation scorer using mic (Wav2Vec2)
-  - [ ]  Vocabulary builder <------------------------------ in progresss
+  - [x]  Vocabulary builder <------------------------------ in progresss
   - [ ]  "Mimic the Phrase" (AI-TTS → User repetition)
   - [ ]  Tongue twisters & shadowing exercises
   - [ ]  Role-play scenarios
@@ -34,7 +36,7 @@ _because baby steps..._
 ![image](https://github.com/user-attachments/assets/688c5050-8bbb-4170-bae3-6a51885c59f0)
 <br>
 ## Propsed Landing Page
-![WhatsApp Image 2025-04-05 at 17 49 51_3ecc3804](https://github.com/user-attachments/assets/c1d981e3-9c82-4c07-b4ba-478882ad754f)
+![WhatsApp Image 2025-04-06 at 08 05 09_fa2ba0a3](https://github.com/user-attachments/assets/dce4d9c7-ad4d-41c2-93c4-6c59f196a4a2)
 <br>
 ## Proposed UI samples
 ![WhatsApp Image 2025-04-05 at 08 04 11_ba0760d0](https://github.com/user-attachments/assets/4d3d13aa-307a-4603-92e0-b49384b29cae)
