@@ -20,8 +20,8 @@ _because baby steps..._
 ## Lessons
   - [x]  pronunciation scorer (Wav2Vec2)
   - [x]  pronunciation scorer using mic (Wav2Vec2)
-  - [x]  Vocabulary builder <------------------------------ in progresss
-  - [ ]  "Mimic the Phrase" (AI-TTS → User repetition)
+  - [x]  Vocabulary builder
+  - [ ]  "Mimic the Phrase" (AI-TTS → User repetition) <--- in progress
   - [ ]  Tongue twisters & shadowing exercises
   - [ ]  Role-play scenarios
 
