@@ -4,6 +4,7 @@ _Smart Language learning at your fingertips_
 ## Deployed at
 1. Pronounciation Scorer https://accento.streamlit.app/
 2. Vocab Builder: https://accento-vocab.streamlit.app/
+3. Landing Page Repo: https://github.com/rohitx05/test-site.git
 
 ## 🛠️ Tech Stack
 
