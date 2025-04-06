@@ -124,15 +124,13 @@ if audio_input:
     error = wer(selected_word.lower(), user_transcription)
     score = max(0, int((1 - error) * 100))  # out of 100
 
-    st.markdown("#### 🧠 Pronunciation Score:")
-    st.metric(label="Score", value=f"{score}/100")
 
     if score >= 80:
-        st.success("Great pronunciation!")
+        st.success("Great! Added to Vocab")
     elif score >= 50:
         st.warning("Good, but you can improve.")
     else:
-        st.error("Needs improvement. Try again!")
+        st.error("It'k ok. We all learn")
 # List of words
 st.markdown("""
     <style>
